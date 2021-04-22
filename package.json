@@ -16,6 +16,7 @@
     "vite": "^2.2.0"
   },
   "dependencies": {
+    "is_js": "^0.9.0",
     "pokemon": "^2.0.2"
   }
 }
