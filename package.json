@@ -14,5 +14,8 @@
   "devDependencies": {
     "sass": "^1.32.10",
     "vite": "^2.2.0"
+  },
+  "dependencies": {
+    "pokemon": "^2.0.2"
   }
 }
